@@ -1,0 +1,12 @@
+[package]
+name = "yield-closures"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yuichi Nishiwaki <yuichi.nishiwaki@icloud.com>"]
+license = "MIT"
+repository = "https://github.com/nyuichi/yield-closures"
+documentation = "https://docs.rs/yield-closures"
+
+[dependencies]
+yield-closures-impl = { version = "0.1.0", path = "./yield-closures-impl" }
+waker-fn = "1"
