@@ -6,6 +6,7 @@ authors = ["Yuichi Nishiwaki <yuichi.nishiwaki@icloud.com>"]
 license = "MIT"
 repository = "https://github.com/nyuichi/yield-closures"
 documentation = "https://docs.rs/yield-closures"
+description = "An implementation of MCP-49"
 
 [dependencies]
 yield-closures-impl = { version = "0.1.0", path = "./yield-closures-impl" }
