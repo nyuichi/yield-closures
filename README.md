@@ -1,4 +1,4 @@
-# yield-closures
+# yield-closures [![Crates.io](https://img.shields.io/crates/v/yield-closures)](https://crates.io/crates/yield-closures) [![docs.rs](https://img.shields.io/docsrs/yield-closures)](https://docs.rs/yield-closures/)
 
 An implementation of [MCP-49](https://github.com/rust-lang/lang-team/issues/49).
 
